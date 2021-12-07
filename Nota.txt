@@ -1,0 +1,7 @@
+Los notebooks fueron desarrollados en Jupyter Lab.
+
+Las imagenes: "foto1", "foto2" y "ktm2" se utilizan para ser procesadas tanto pora el Trabajo Practico 1, como el 3.
+Para el Trabajo Practico 2, las imagenes "foto1" y "foto2" deben estar en la misma carpeta que el notebook "Tps-1-2-3.ipynb" debido a que son imagenes precargadas por el programa
+y que poseen igual resolucion.
+
+Para el Traajo Practico 4, se utiliza la "figura19" para los distintos operadores, y la imagen "figSobel" es utilizada con el operador Sobel para apreciar mas claramente su ejecucion
